@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 
 
 👋Oi, meu nome é Victória, formada em Sistemas de Informação e estou aprofundando meus estudos em desenvolvimento web.
 
