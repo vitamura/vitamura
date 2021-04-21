@@ -4,6 +4,6 @@
 
 👀 Desde os meus dezesseis anos adoro aprender mais sobre os tipos de aplicações web.
 
-🌱 Atualmente estou pretendendo atuar como Desenvolvedora Full Stack e com linguagem de programação Python.
+🌱 Atualmente estou aprofundando meus estudos em Front-End.
 
 📫 Entre em contato comigo pelo e-mail: victoriamtamura@gmail.com. Vamos conversar!
