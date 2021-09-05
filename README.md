@@ -2,9 +2,9 @@
 
 👋Oi, meu nome é Victória, formada em Sistemas de Informação e estou aprofundando meus estudos em desenvolvimento front-end.
 
-🌱 Estudando Javascript, Php e Java.
+🌱 Pronome: ela/dela
 
-📫 Entre em contato comigo pelo e-mail: victoriamtamura@gmail.com. 
+😘 Leio livros e assisto séries nas horas vagas.
 
  <div>
   <a href="https://github.com/vitamura">
@@ -17,8 +17,14 @@
   <img align="center" alt="vic-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="vic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+   <img align="center" alt="vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 </div>
-  
+  <a href="https://instagram.com/vmayuri_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vtamura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victoria-t-b68257a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
   ##
  
 <div> 
