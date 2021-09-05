@@ -4,6 +4,6 @@
 
 👀 Desde os meus dezesseis anos adoro aprender mais sobre os tipos de aplicações web.
 
-🌱 Atualmente estou aprofundando meus estudos em Front-End.
+🌱 Estudando Javascript, Php e Java.
 
 📫 Entre em contato comigo pelo e-mail: victoriamtamura@gmail.com. Vamos conversar!
